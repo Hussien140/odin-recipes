@@ -1,0 +1,28 @@
+body {
+    background-color: chocolate;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    color: rgb(77, 158, 212);    
+}
+
+h2 {
+    font-size: 32px;
+    color: blueviolet;
+}
+
+h3 {
+    font-size: 28px;
+    color: yellow;
+}
+
+h4 {
+    font-size: 25px;
+    color: white;
+} 
+
+ul li, ol li {
+    font-size: 20px;
+}
